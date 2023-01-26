@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaykoo
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 👀 I breathe Web Development
+- 🌱 I’m currently working on system designs for smooth data transitions.
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me @ shaykoo1993@gmail.com
 
