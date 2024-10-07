@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Shaykoo/Shaykoo/commit/a2078b3af78e015f39669a04a19478446cba7106\"><strong>a</strong>2078b3af78e015f39669a04a19478446cba7106</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"requirement.txt\".",
+    "body": "My favorite commit message words are:\n\n1. requirement.txt (used 25 times)\n2. the (used 22 times)\n3. changing (used 20 times)\n4. version (used 19 times)\n5. commit (used 10 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/Shaykoo/scanner_frontend/pull/1\">#1</a>: changing the default port and yaml git file",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/fa3a3a5f5fef4b04d5f72d9be578f79ef1bb2033\">fa3a3a5</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/1f27064260d3ccbdf7992bd6b9067516cefc8929\">1f27064</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/b561a0e14cd1101fe2b71808fe8e67401a20f3af\">b561a0e</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/50ba933e6b33559ceb8a010c2270416d670004f5\">50ba933</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/c8f156483594dde666012da4149cd0a6e3311a9d\">c8f1564</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/2e90e2a12520d9648b7317e1a0198d20a6c64d0b\">2e90e2a</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Shaykoo/Shaykoo/commit/a2078b3af78e015f39669a04a19478446cba7106\">a2078b3</a>\n- <a href=\"https://github.com/Shaykoo/Xero/commit/8c6efab424f36eddd8105221a41abf6c5a7a276d\">8c6efab</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/cefda6f912a073413359281291df0f5d18d4752d\">cefda6f</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/e3cd773c0a10fab086631702fb1358a5528c1668\">e3cd773</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/8064a3d670ca505dae9532dda59fab08d7789abe\">8064a3d</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/f7e193783c9dec21eda0950a45ea76aeaf88f7b1\">f7e1937</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  }
+]
