@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shaykoo
 - 👀 I breathe Web Development
 - 🌱 I’m currently working on system designs for smooth data transitions.
-- 💞️ I’m looking to collaborate on React projects
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me @ shaykoo1993@gmail.com
 
 <!-- my-badges start -->
