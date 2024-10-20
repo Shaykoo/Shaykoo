@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"requirement.txt\".",
-    "body": "My favorite commit message words are:\n\n1. requirement.txt (used 25 times)\n2. the (used 22 times)\n3. changing (used 20 times)\n4. version (used 19 times)\n5. commit (used 10 times)",
+    "body": "My favorite commit message words are:\n\n1. requirement.txt (used 25 times)\n2. the (used 24 times)\n3. changing (used 20 times)\n4. version (used 19 times)\n5. commit (used 11 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,28 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Shaykoo/Shaykoo/commit/11bf740f3ceb26a67b13b094503a2cefc762a8fe\">11bf740</a>\n- <a href=\"https://github.com/Shaykoo/Shaykoo/commit/a2078b3af78e015f39669a04a19478446cba7106\">a2078b3</a>\n- <a href=\"https://github.com/Shaykoo/Xero/commit/8c6efab424f36eddd8105221a41abf6c5a7a276d\">8c6efab</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/cefda6f912a073413359281291df0f5d18d4752d\">cefda6f</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/e3cd773c0a10fab086631702fb1358a5528c1668\">e3cd773</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/8064a3d670ca505dae9532dda59fab08d7789abe\">8064a3d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Shaykoo/notification-server/commit/c346706ace4e77460c89805e69e65270b882379d\">c346706</a>\n- <a href=\"https://github.com/Shaykoo/notification-server/commit/e02cc612622a394eca36fd5deb3b9b524b3c7cc9\">e02cc61</a>\n- <a href=\"https://github.com/Shaykoo/Shaykoo/commit/11bf740f3ceb26a67b13b094503a2cefc762a8fe\">11bf740</a>\n- <a href=\"https://github.com/Shaykoo/Shaykoo/commit/a2078b3af78e015f39669a04a19478446cba7106\">a2078b3</a>\n- <a href=\"https://github.com/Shaykoo/Xero/commit/8c6efab424f36eddd8105221a41abf6c5a7a276d\">8c6efab</a>\n- <a href=\"https://github.com/Shaykoo/scanner_backend/commit/cefda6f912a073413359281291df0f5d18d4752d\">cefda6f</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Shaykoo/notification-server/commit/aaa377699ced7070db47f3d0e856f7be09879f3d\">aaa3776</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Shaykoo/notification-server/commit/aaa377699ced7070db47f3d0e856f7be09879f3d\">aaa3776</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
