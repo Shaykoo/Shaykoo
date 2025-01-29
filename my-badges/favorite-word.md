@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. requirement.txt (used 25 times)
-2. commit (used 20 times)
-3. changing (used 20 times)
-4. version (used 19 times)
-5. added (used 15 times)
+2. changing (used 20 times)
+3. version (used 19 times)
+4. commit (used 9 times)
+5. changed (used 9 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
