@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/Shaykoo/Shaykoo/commit/11bf740f3ceb26a67b13b094503a2cefc762a8fe">11bf740</a>
-- <a href="https://github.com/Shaykoo/Shaykoo/commit/a2078b3af78e015f39669a04a19478446cba7106">a2078b3</a>
-- <a href="https://github.com/Shaykoo/scanner_backend/commit/cefda6f912a073413359281291df0f5d18d4752d">cefda6f</a>
-- <a href="https://github.com/Shaykoo/scanner_backend/commit/e3cd773c0a10fab086631702fb1358a5528c1668">e3cd773</a>
-- <a href="https://github.com/Shaykoo/scanner_backend/commit/8064a3d670ca505dae9532dda59fab08d7789abe">8064a3d</a>
-- <a href="https://github.com/Shaykoo/scanner_backend/commit/f7e193783c9dec21eda0950a45ea76aeaf88f7b1">f7e1937</a>
+- <a href="https://github.com/Shaykoo/agentic-chat/commit/a0ae3f909f96d0d687ab2a6828513d555684a842">a0ae3f9</a>
+- <a href="https://github.com/Shaykoo/agentic-chat/commit/ff164258567f2c77c028e16fcd91139a9288e441">ff16425</a>
+- <a href="https://github.com/Shaykoo/Jagota-LINE-CustomerOnboarding/commit/568e1dd5a3f61463db1871dc08b889e0caff843a">568e1dd</a>
+- <a href="https://github.com/Shaykoo/nextjs-test/commit/e0fd23cf475e020cf5f4324d3a062e0785e5264a">e0fd23c</a>
+- <a href="https://github.com/Shaykoo/TS-Interpreter/commit/120064a8ed3d45f4c98a83ac8e9da0d7cb3ec63a">120064a</a>
+- <a href="https://github.com/Shaykoo/TS-Interpreter/commit/a3962ffb90c376c90c7778a85a156b7df82b4565">a3962ff</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
